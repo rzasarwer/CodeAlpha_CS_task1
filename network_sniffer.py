@@ -13,7 +13,7 @@ history_time = []
 
 #Creating a empty file to save output
 output_file = open("Desktop\output_history.txt",'a')
-graph_file = open("/Users/deepanshsaini/Desktop/graph.csv",'a')
+graph_file = open("/Users/raza/Desktop/graph.csv",'a')
 graph_file.write("Connected_Devices,Time\n")
 
 #installing arp-scan of not present
